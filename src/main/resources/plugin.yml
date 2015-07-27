@@ -1,0 +1,5 @@
+name: PlayerSQL-Bridge
+main: com.mengcraft.playersql.bridge.Main
+version: 0.0.1
+
+depend: [PlayerSQL]
