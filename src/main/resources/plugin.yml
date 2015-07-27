@@ -1,5 +1,6 @@
-name: PlayerSQL-Bridge
 main: com.mengcraft.playersql.bridge.Main
+name: PlayerSQL-Bridge
 version: 0.0.1
+website: http://www.spigotmc.org/resources/playersql.552/
 
 depend: [PlayerSQL]
